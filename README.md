@@ -84,6 +84,8 @@ https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment-11
 # Experiment-12
 
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/113408303/211993278-f43af678-c74d-441d-aa37-e5f5e4a897e4.png">
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/113408303/212009232-8e7c2e56-9528-4953-b175-7fe477fa145a.png">
+
 
 
 
