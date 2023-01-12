@@ -11,7 +11,7 @@ https://github.com/1Yamini/CSA0537-DBMS/blob/main/Experiment-1
 
 # EXPERIMENT-2
 
-https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment-2
+https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment%20-2
 
 <img width="435" alt="ss1 2" src="https://user-images.githubusercontent.com/113408005/211856337-a2d0e0cb-c115-4146-8132-0efdb733a62c.png">
 <img width="569" alt="faculty ss" src="https://user-images.githubusercontent.com/113408005/211856523-e3aa4358-8755-4559-b968-40fa05b632c4.png">
