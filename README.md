@@ -49,11 +49,11 @@ https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment-6
 
 # EXPERIMENT-7
 
+https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment%20-7
 
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/113408005/211975844-38509c15-fd3e-4800-bd21-e455467b3db3.png">
 
 # EXPERIMENT-8
-
 
 
 <img width="378" alt="Screenshot_20230109_211235" src="https://user-images.githubusercontent.com/113408005/211976475-e83d9f89-f7a0-4641-8d60-81fc5e38c026.png">
