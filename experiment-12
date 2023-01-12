@@ -1,0 +1,17 @@
+mysql> delimiter //
+mysql> create function calcincome(start_value int)
+    -> returns int
+    -> deterministic
+    -> begin
+    -> declare income int;
+    -> set income=0;
+    -> label1:loop
+    -> set income=income+start_value;
+    -> if income<4000 then
+    -> iterate label1;
+    -> end if;
+    -> leave label1;
+    -> end loop label1;
+    -> return income;
+    -> end;
+    -> //
