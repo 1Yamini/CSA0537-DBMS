@@ -55,12 +55,14 @@ https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment%20-7
 
 # EXPERIMENT-8
 
+https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment%20-8
 
 <img width="378" alt="Screenshot_20230109_211235" src="https://user-images.githubusercontent.com/113408005/211976475-e83d9f89-f7a0-4641-8d60-81fc5e38c026.png">
 <img width="214" alt="8" src="https://user-images.githubusercontent.com/113408005/211977239-1286e8b1-8e48-4b84-9b62-b55c40588c91.png">
 
 # EXPERIMENT-9
 
+https://github.com/1Yamini/CSA0537-DBMS/blob/main/experiment%20-9
 
 <img width="459" alt="inner join" src="https://user-images.githubusercontent.com/113408005/211977695-f6b69f8e-ad04-4454-b6e5-bc9b24f4c5dc.png">
 <img width="459" alt="inner join" src="https://user-images.githubusercontent.com/113408005/211977725-bea2fe24-4a6d-40b3-bb04-a28fe2ab0e7e.png">
