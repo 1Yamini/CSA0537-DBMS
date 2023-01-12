@@ -15,3 +15,21 @@ mysql> create function calcincome(start_value int)
     -> return income;
     -> end;
     -> //
+
+mysql> delimiter //
+mysql> create function incomelevel(monthly_value int)
+    -> returns varchar(20)
+    -> deterministic
+    -> begin
+    -> declare income_level varchar(20);
+    -> case monthly_value
+    -> when 4000 then
+    -> set income_level='low income';
+    -> when 5000 then
+    -> set income_level='avg income';
+    -> else
+    -> set income_level='high income';
+    -> end case;
+    -> return income_level;
+    -> end
+    -> //
